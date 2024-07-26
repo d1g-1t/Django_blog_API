@@ -50,7 +50,7 @@
     ```
 
 6. Запустите сервер разработки:
-    ```
+    ```sh
     python manage.py runserver
     ```
 
